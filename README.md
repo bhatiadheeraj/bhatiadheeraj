@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[Visitor Count](https : //profile-counter.glitch.me/bhatiadheeraj/count.svg)
+![Visitor Count](https : //profile-counter.glitch.me/bhatiadheeraj/count.svg)
 
 <!--
 **bhatiadheeraj/bhatiadheeraj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

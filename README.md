@@ -2,7 +2,7 @@
 
 ![Visitor Count](https://profile-counter.glitch.me/bhatiadheeraj/count.svg)
 
-- 📫 How to reach me: Email me [dheeraj.bhatia@utexas.edu](@mailto:dheeraj.bhatia@utexas.edu)
+- 📫 How to reach me: Email me [dheerajbhatia2010@gmail.com](@mailto:dheerajbhatia2010@gmail.com)
 <!--
 **bhatiadheeraj/bhatiadheeraj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

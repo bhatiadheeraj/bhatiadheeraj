@@ -3,10 +3,9 @@
 ![Visitor Count](https://profile-counter.glitch.me/bhatiadheeraj/count.svg)
 
 I’m Dheeraj, a Full Stack Software Engineer passionate about building scalable web, mobile, and cloud applications. My work spans across technologies like JavaScript, Python, React, Vue.js, and cloud platforms like AWS and Azure.
-- 🔭 I’m currently working on AI-driven neuroscience projects at the University of Texas at Austin.
-- 🌱 I’m currently learning Golang and Solidity.
+- 🔭 I’m currently working on AI-driven consumer digital products such as PawAnthems.com and Due App.
 - 👯 I’m looking to collaborate on open-source projects.
-- 💬 Ask me about web and android development.
+- 💬 Ask me about full stack and android development.
 - 📫 How to reach me: dheerajbhatia2010@gmail.com
 Thanks for visiting! 😊
 

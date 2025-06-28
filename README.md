@@ -2,13 +2,44 @@
 
 ![Visitor Count](https://profile-counter.glitch.me/bhatiadheeraj/count.svg)
 
-I’m Dheeraj, a Full Stack Software Engineer passionate about building scalable web, mobile, and cloud applications. My work spans across technologies like JavaScript, Python, React, Vue.js, and cloud platforms like AWS and Azure.
-- 🔭 I’m currently working on AI-driven consumer digital products such as PawAnthems.com and Due App.
-- 👯 I’m looking to collaborate on open-source projects.
-- 💬 Ask me about full stack and android development.
-- 📫 How to reach me: dheerajbhatia2010@gmail.com
-Thanks for visiting! 😊
+Hi! I’m **Dheeraj**, a software engineer who loves turning ideas into delightful, scalable products.  
+I craft end-to-end solutions from crisp front-ends to back-end services using **JavaScript**, **TypeScript**, **Python**, and an ever growing toolkit of modern frameworks.
 
+- 🌎  Based in Texas, USA  
+- 🛠  Day-to-day stack: ** React · Vue.js · Node.js · Python · Flask · Express · MongoDB · PostgreSQL **  
+- ☁️  Cloud playgrounds: **AWS · Azure · Vercel · Cloudflare Workers **  
+- 📱  Mobile: **Native Android** (Kotlin and Java) & **React Native**  
+- 💡  Always learning about AI engineering : model deployment, RAG and best practices 
+---
+
+## 🔭 What I’m Building
+
+| Project | Description | Tech |
+|---------|-------------|------|
+| **[PawAnthems.com](https://pawanthems.com)** | AI-generated songs for your pets | GPT-4o · Next.js · Agentic AI |
+| **Due App** | Expense Tracking and Payment - Settle Dues with money pool group (iOS/Android) | React Native · MongoDb · Typescript · FCM |
+
+I’m also actively looking to **collaborate on open-source projects** especially those improving developer workflows or accessibility.
+
+---
+
+## 🎨 Design & Prototyping
+- Skilled in **Figma** for quick, interactive mock-ups.  
+- Map user flows & wireframes before code starts.  
+- Iterate visuals fast for stakeholder feedback.  
+- Keep dev hand-off smooth with clear specs.  
+---
+
+## 🛠 Tech Toolbox
+
+```
+Languages:  JavaScript / TypeScript • Python • Kotlin • SQL
+Front-End:  React • Next.js • Vue.js • Tailwind CSS • Vite
+Back-End:   Node.js • Express • FastAPI • Django • GraphQL
+Mobile:     React Native • Android (Kotlin)
+DevOps:     AWS • Azure • Docker • GitHub Actions • Terraform
+Tools:      VS Code • Figma • Postman • Jira • Notion · Ollama 
+```
 <!--
 **bhatiadheeraj/bhatiadheeraj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

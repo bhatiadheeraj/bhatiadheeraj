@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-![Visitor Count](https://profile-counter.glitch.me/bhatiadheeraj/count.svg)
-
 Hi! I’m **Dheeraj**, a software engineer who loves turning ideas into delightful, scalable products.  
 I craft end-to-end solutions from crisp front-ends to back-end services using **JavaScript**, **TypeScript**, **Python**, and an ever growing toolkit of modern frameworks.
 

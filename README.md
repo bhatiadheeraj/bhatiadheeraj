@@ -10,12 +10,6 @@ I craft end-to-end solutions from crisp front-ends to back-end services using **
 - 💡  Always learning about AI engineering : model deployment, RAG and best practices 
 ---
 
-## 🔭 What I’m Building
-
-| Project | Description | Tech |
-|---------|-------------|------|
-| **[PawAnthems.com](https://pawanthems.com)** | AI-generated songs for your pets | GPT-4o · Next.js · Agentic AI |
-| **Due App** | Expense Tracking and Payment - Settle Dues with money pool group (iOS/Android) | React Native · MongoDb · Typescript · FCM |
 
 I’m also actively looking to **collaborate on open-source projects** especially those improving developer workflows or accessibility.
 

@@ -6,7 +6,7 @@ I craft end-to-end solutions from crisp front-ends to back-end services using **
 - 🌎  Based in Texas, USA  
 - 🛠  Day-to-day stack: ** React · Vue.js · Node.js · Python · Flask · Express · MongoDB · PostgreSQL **  
 - ☁️  Cloud playgrounds: **AWS · Azure · Vercel · Cloudflare Workers **  
-- 📱  Mobile: **Native Android** (Kotlin and Java) & **React Native**  
+- 📱  Mobile: **Native Android** (Kotlin and Java) & **React Native (IOS & Android)**  
 - 💡  Always learning about AI engineering : model deployment, RAG and best practices 
 ---
 
